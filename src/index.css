@@ -1,7 +1,18 @@
 :root{
   --primary-color:#9400D3;
   --secondary-color:#B700D3;
+  font-size: larger;
 }
 body{
   background-color: var(--primary-color);
+  padding: 0px;
+  margin: 0px;
+  color:white
 }
+h1{
+  margin: 0px;
+  text-align: center;
+}
+
+
+/* custom classes */
